@@ -11,7 +11,7 @@
 ## SoulScan
 这个我们讨论过这个要删掉，没及时更新
 
-## Identiifier
+## Identify Verification
 显示用户绑定Web2信息的弹窗，查看或者绑定web2账户信息
 
 ## WSP
